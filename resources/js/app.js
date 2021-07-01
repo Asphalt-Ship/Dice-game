@@ -164,5 +164,6 @@ function initialiseLeJeu() {
 
     document.querySelector('.joueur-2-panel').classList.remove('active');
     document.querySelector('.joueur-1-panel').classList.add('active');
+    jouer = true;
 
 }
